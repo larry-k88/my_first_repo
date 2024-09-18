@@ -1,1 +1,1 @@
-Worked examples from Intro to Programming with Python: Chapter 1 - 'Getting Started'
+Worked examples from the book 'Intro to Programming with Python': Chapter 1 - 'Getting Started'
